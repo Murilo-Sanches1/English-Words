@@ -1,7 +1,7 @@
 # English-Words
 
 ## Sobre
-English Words, um projeto que consome um package do https://pub.dev/ (english_words: ^4.0.0) que contém mais de 5000 palavras em inglês para mostrar aleatoriamente na tela e com o usuário tendo poder de escolha de dar um like ou passar para a próxima palavra, todas as palavras favoritadas são salvas em state no aplicativo e salvadas na página de favoritos. Vários conceitos abordados esse projeto, como: **O essencial de como o Flutter funciona**, **Criando e componentizando layouts**, **Manuseando interações do usuário**, **Design responsivo**, **Animações básicas (ShaderMask, AnimatedLst, Gradients, SizeTransition)**, **Utilizando states globais (ChangeNotifier)**, **Noções de aessibilidade** etc. Referência: https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0 
+English Words, um projeto que consome um package do https://pub.dev/ (english_words: ^4.0.0) que contém mais de 5000 palavras em inglês para mostrar aleatoriamente na tela e com o usuário tendo poder de escolha de dar um like ou passar para a próxima palavra, todas as palavras favoritadas são salvas em state no aplicativo e salvadas na página de favoritos. Vários conceitos abordados esse projeto, como: **O essencial de como o Flutter funciona**, **Criando e componentizando layouts**, **Manuseando interações do usuário**, **Design responsivo**, **Animações básicas (ShaderMask, AnimatedList, Gradients, SizeTransition)**, **Utilizando states globais (ChangeNotifier)**, **Noções de aessibilidade** etc. Referência: https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0 
 
 ### Conteúdos  
 * [Sobre](#sobre)  
